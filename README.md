@@ -1,8 +1,7 @@
-<!-- author: hgbaodev -->
-# Đồ án môn lập trình web và ứng dụng
+
 ### Tài khoản Admin
 
-- Username: hgbaodev
+- Username: 
 - Password: 123456
 ### Hình ảnh giao diện
 ![Alt text](./assets/img/screen.jpeg)
